@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Color-suggestion-app/static/css/main.42cc8b22.chunk.css",
+    "main.js": "/Color-suggestion-app/static/js/main.ae839a87.chunk.js",
+    "main.js.map": "/Color-suggestion-app/static/js/main.ae839a87.chunk.js.map",
+    "runtime-main.js": "/Color-suggestion-app/static/js/runtime-main.cb13f3a9.js",
+    "runtime-main.js.map": "/Color-suggestion-app/static/js/runtime-main.cb13f3a9.js.map",
+    "static/js/2.08692190.chunk.js": "/Color-suggestion-app/static/js/2.08692190.chunk.js",
+    "static/js/2.08692190.chunk.js.map": "/Color-suggestion-app/static/js/2.08692190.chunk.js.map",
+    "static/js/3.95d897da.chunk.js": "/Color-suggestion-app/static/js/3.95d897da.chunk.js",
+    "static/js/3.95d897da.chunk.js.map": "/Color-suggestion-app/static/js/3.95d897da.chunk.js.map",
+    "static/js/4.e42b17b0.chunk.js": "/Color-suggestion-app/static/js/4.e42b17b0.chunk.js",
+    "static/js/4.e42b17b0.chunk.js.map": "/Color-suggestion-app/static/js/4.e42b17b0.chunk.js.map",
+    "static/js/5.84f28a63.chunk.js": "/Color-suggestion-app/static/js/5.84f28a63.chunk.js",
+    "static/js/5.84f28a63.chunk.js.map": "/Color-suggestion-app/static/js/5.84f28a63.chunk.js.map",
+    "static/js/6.23696afb.chunk.js": "/Color-suggestion-app/static/js/6.23696afb.chunk.js",
+    "static/js/6.23696afb.chunk.js.map": "/Color-suggestion-app/static/js/6.23696afb.chunk.js.map",
+    "static/js/7.d0b03ef2.chunk.js": "/Color-suggestion-app/static/js/7.d0b03ef2.chunk.js",
+    "static/js/7.d0b03ef2.chunk.js.map": "/Color-suggestion-app/static/js/7.d0b03ef2.chunk.js.map",
+    "static/js/8.a5cf0f08.chunk.js": "/Color-suggestion-app/static/js/8.a5cf0f08.chunk.js",
+    "static/js/8.a5cf0f08.chunk.js.map": "/Color-suggestion-app/static/js/8.a5cf0f08.chunk.js.map",
+    "static/js/9.4f421de1.chunk.js": "/Color-suggestion-app/static/js/9.4f421de1.chunk.js",
+    "static/js/9.4f421de1.chunk.js.map": "/Color-suggestion-app/static/js/9.4f421de1.chunk.js.map",
+    "static/js/10.1f2a1c56.chunk.js": "/Color-suggestion-app/static/js/10.1f2a1c56.chunk.js",
+    "static/js/10.1f2a1c56.chunk.js.map": "/Color-suggestion-app/static/js/10.1f2a1c56.chunk.js.map",
+    "static/js/11.9036c2a3.chunk.js": "/Color-suggestion-app/static/js/11.9036c2a3.chunk.js",
+    "static/js/11.9036c2a3.chunk.js.map": "/Color-suggestion-app/static/js/11.9036c2a3.chunk.js.map",
+    "index.html": "/Color-suggestion-app/index.html",
+    "precache-manifest.a0730cd89c5b09e52bbd35daa9bb9525.js": "/Color-suggestion-app/precache-manifest.a0730cd89c5b09e52bbd35daa9bb9525.js",
+    "service-worker.js": "/Color-suggestion-app/service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "/Color-suggestion-app/static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.08692190.chunk.js.LICENSE.txt": "/Color-suggestion-app/static/js/2.08692190.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/Color-suggestion-app/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.09e6f5e7.svg": "/Color-suggestion-app/static/media/shopping-bag.09e6f5e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb13f3a9.js",
+    "static/js/2.08692190.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.ae839a87.chunk.js"
+  ]
+}
